@@ -1,9 +1,7 @@
 # kratikesh18
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kartikesh+Pachkawade;Researcher+%7C+Computer+Science+Student+%7C;+Data+Structures%7C+Algorithms+%7C+Open+Source" alt="Typing SVG" />
-</a>
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&duration=2949&pause=200&color=C200C4&background=000000&center=true&vCenter=true&multiline=true&width=438&height=136&lines=Kartikesh+Pachkawade+;Researcher+%7C+Computer+Science+Student+;Data+Structures+%7C+Algorithms+;Full+Stack+Devloper+%7C+Open+Source" alt="Typing SVG" /> 
+    </a>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kratikesh18)
 
