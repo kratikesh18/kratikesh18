@@ -31,6 +31,7 @@ You can find me on the following platforms:
 
 - [GitHub](https://github.com/kratikesh18)
 - [LinkedIn](https://www.linkedin.com/in/kartikesh-pachkawade/)
+- [LeetCode](https://leetcode.com/kratikesh18/)
 - [Twitter](https://twitter.com/kratikesh18)
 
 Feel free to reach out to me for collaborations or any inquiries!
