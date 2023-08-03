@@ -45,8 +45,8 @@ Feel free to reach out to me for collaborations or any inquiries!
     <img src="https://streak-stats.demolab.com?user=kratikesh18&theme=ambient-gradient&type=png" alt="GitHub Streak" />
   </a>
 </p>
-
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kratikesh18&theme=highcontrast&show_icons=true&count_private=true" alt="Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratikesh18&layout=compact" alt="Top Languages Card" />
 </p>
+
 
