@@ -3,16 +3,16 @@
 I'm Kartikesh, a passionate developer with a love for coding and problem-solving.
 
 ## About Me 🚀
-<!-- - 🔭 I'm currently working on [project name]. -->
 - 🌱 I'm currently learning Frontend and DSA With Java.
-<!-- - 👯 I'm looking  on [project or idea].-->
 - 💬 Ask me about anything tech-related.
 - 📫 Reach me at im.kartikesh18@gmail.com .
 - ⚡ Fun fact: My CS degree is gross.
+<!-- - 🔭 I'm currently working on [project name]. -->
+<!-- - 👯 I'm looking  on [project or idea].-->
 
 ## Languages and Tools 🛠️
 
-- Java, C++, Python, JavaScript, CSS. 
+- Java, C++, JavaScript, ReactJs, TailwindCSS, CSS 
 
 ## Connect with Me 🌐
 
