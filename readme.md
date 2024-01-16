@@ -7,12 +7,12 @@ I'm Kartikesh, a passionate developer with a love for coding and problem-solving
 - 💬 Ask me about anything tech-related.
 - 📫 Reach me at im.kartikesh18@gmail.com .
 - ⚡ Fun fact: My CS degree is gross.
-<!-- - 🔭 I'm currently working on [project name]. -->
+- 🔭 I'm currently working on MyTube-Youtube clone. 
 <!-- - 👯 I'm looking  on [project or idea].-->
 
 ## Languages and Tools 🛠️
 
-- Java, C++, JavaScript, ReactJs, TailwindCSS, CSS 
+- Java, C++, JavaScript, ExpressJs, Mongoose, mongoDB, ReactJs, TailwindCSS, CSS 
 
 ## Connect with Me 🌐
 
