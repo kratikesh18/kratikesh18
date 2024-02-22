@@ -3,7 +3,7 @@
 I'm Kartikesh, a passionate developer with a love for coding and problem-solving.
 
 ## About Me 🚀
-- 🌱 I'm currently learning Frontend and DSA With Java.
+- 🌱 I'm currently Looking for Fullstack role.
 - 💬 Ask me about anything tech-related.
 - 📫 Reach me at im.kartikesh18@gmail.com .
 - ⚡ Fun fact: My CS degree is gross.
