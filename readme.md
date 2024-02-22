@@ -7,7 +7,7 @@ I'm Kartikesh, a passionate developer with a love for coding and problem-solving
 - 💬 Ask me about anything tech-related.
 - 📫 Reach me at im.kartikesh18@gmail.com .
 - ⚡ Fun fact: My CS degree is gross.
-- 🔭 I'm currently working on MyTube-Youtube clone. 
+<!-- - 🔭 I'm currently working on MyTube-Youtube clone. --> 
 <!-- - 👯 I'm looking  on [project or idea].-->
 
 ## Languages and Tools 🛠️
