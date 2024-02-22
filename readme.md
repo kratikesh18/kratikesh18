@@ -12,7 +12,10 @@ I'm Kartikesh, a passionate developer with a love for coding and problem-solving
 
 ## Languages and Tools 🛠️
 
-- Java, C++, JavaScript, ExpressJs, Mongoose, mongoDB, ReactJs, TailwindCSS, CSS 
+- JavaScript, TypeScript, ExpressJs, Mongoose, mongoDB, ReactJs, TailwindCSS, CSS
+- Java, C++, Python.
+- Data Structures and Alogrithms
+- Database Management System  
 
 ## Connect with Me 🌐
 
