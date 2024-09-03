@@ -14,16 +14,16 @@ I'm Kartikesh, a Software Developer with a love for technology and problem-solvi
 - Next.js, React.js, Tailwind CSS, CSS
 
 ### **Backend**
-- Express.js, Node.js
+- Express.js, Node.js, Spring, Spring-Boot
 
 ### **Databases**
-- MongoDB, Mongoose
+- MongoDB, Mongoose, SQL, MySQL, Hibernate  
 
 ### **Languages**
-- JavaScript, TypeScript, Java, C++, Python
+- JavaScript, TypeScript, Java, C++, Python, C
 
 ### **Concepts**
-- Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems
+- Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Networking
 
 ### **Tools**
 - Git, GitHub, Docker
