@@ -6,7 +6,7 @@ I'm Kartikesh, a Software Developer with a love for technology and problem-solvi
 - 🌱 I'm currently looking for a Full Stack role.
 - 💬 Ask me about anything tech-related.
 - 📫 Reach me at [im.kartikesh18@gmail.com](mailto:im.kartikesh18@gmail.com).
-- ⚡ Fun fact: I love tackling challenging problems and turning them into elegant solutions.
+- ⚡ Fun fact: My CS Degree is Gross.
 
 ## Languages and Tools 🛠️
 
