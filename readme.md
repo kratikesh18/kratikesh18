@@ -30,7 +30,8 @@ I'm Kartikesh, a Software Developer with a love for technology and problem-solvi
 
 ## Connect with Me 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kartikeshpachkawade) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kartikesh_18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kartikeshpachkawade)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kartikesh_18)
 [![portfolio](https://img.shields.io/badge/web-0077B5?style=for-the-badge&logo=web&logoColor=white)](https://kartikeshpachkawade.vercel.app/) 
 
 Feel free to reach out! 😄
